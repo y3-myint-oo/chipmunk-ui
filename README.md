@@ -7,4 +7,5 @@
 - [ ] Material design
 - [ ] Icons
 - [ ] UI Components
+- [ ] TypeScript
 
